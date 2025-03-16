@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zharoldr
 - 👀 I’m interested in Game Design and Maths
-- 🌱 I’m currently studying CS at Clemson University
+- 🌱 I’m a junior software engineer
 - 📫 How to reach me: zruss0819@gmail.com
 
 <!---
